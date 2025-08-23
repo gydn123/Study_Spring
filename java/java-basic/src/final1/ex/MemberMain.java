@@ -8,4 +8,4 @@ public class MemberMain {
         member.changeData("seo");
         member.print();
     }
-} 
+}
